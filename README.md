@@ -1,6 +1,6 @@
 # CPEE_2021_cnn_ensemble_face
 
-Source codes for article on CPEE 2021 conference.
+Source codes for article on CPEE 2021 conference. The code if fully runnable and can be used to determine detailed parameters used for the training procedure.
 
 ## Abstract
 
@@ -16,4 +16,12 @@ The source codes were executed on MATLAB version R2021a.
 
 ## Directory structure
 
-
+* `data` - folder with a few examples of data files; due to licensing reasons we are unable to publish the full dataset; you can contact authors: robert.szmurlo@pw.edu.pl, to get the full dataset.;
+* `src` - file with full source code compatible with MATLAB R2021a:
+  * `alex_transf_learning_act_mod5_only_cnn_softmax.m` -source code for experiment with CNN network and custom deep network classifier layer ending with softmax function,
+  * `alex_transf_learning_act_mod5_only_svm.m` - source code with CNN network for feature extraction and SVM as the standalone classifier,
+  * `alex_transf_learning_act_mod5_only_treebagger.m` - source code with CNN network for feature extraction and Random forest trees as the standalone classifier,
+  * `alex_transf_learning_act_mod5_softmax_svm.m` - source code with CNN network for feature extraction and SVM accompanied with deep network softmax classifier,
+  * `alex_transf_learning_act_mod5_softmax_svm_treebagger.m` - source code with CNN network for feature extraction and SVM accompanied with deep network softmax, and random forest of decission  trees classifiers,
+  * `alex_transf_learning_act_mod5_softmax_svm.m` - source code with CNN network for feature extraction and SVM accompanied with random forest decision trees classifier,
+  * `customreader.m` - custom images loading function for MATLAB dataset function.
