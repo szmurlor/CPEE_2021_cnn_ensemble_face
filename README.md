@@ -1,6 +1,6 @@
 # CPEE_2021_cnn_ensemble_face
 
-Source codes for article on CPEE 2021 conference. The code if fully runnable and can be used to determine detailed parameters used for the training procedure.
+Source codes for article on CPEE 2021 conference [https://edison.fel.zcu.cz/html/cpee2021/](https://edison.fel.zcu.cz/html/cpee2021/). The code if fully runnable and can be used to determine detailed parameters used for the training procedure.
 
 ## Abstract
 
