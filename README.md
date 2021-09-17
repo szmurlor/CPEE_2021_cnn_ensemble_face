@@ -4,12 +4,11 @@ Source codes for article on CPEE 2021 conference [https://edison.fel.zcu.cz/html
 
 ## Authors
 
-Robert Szmurlo, Stanislaw Osowski, Deep CNN ensemble for recognition of face images, CPEE 2021, 22th International Conference"Computational Problems of Electrical Engineering", 15-17 of Semptember, Czech Republic, pp.: 135-138
+Robert Szmurlo, Stanislaw Osowski, 
 
 ## Cite
 
-
-Robert Szmurlo, Stanislaw Osowski, 
+Robert Szmurlo, Stanislaw Osowski, Deep CNN ensemble for recognition of face images, CPEE 2021, 22th International Conference"Computational Problems of Electrical Engineering", 15-17 of Semptember, Czech Republic, pp.: 135-138
 
 ## Abstract
 
